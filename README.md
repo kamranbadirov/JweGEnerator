@@ -1,1 +1,1 @@
-# JweGEnerator
+# JweGenerator
